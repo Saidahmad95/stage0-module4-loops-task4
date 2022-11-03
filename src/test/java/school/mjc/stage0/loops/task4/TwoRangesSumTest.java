@@ -29,7 +29,7 @@ class TwoRangesSumTest extends BaseIOTest {
 
         rangesSum.printSumOfTwoRanges(10, 10);
 
-        assertOutEquals("skipped sum is 55\ncounted sum is 0\n");
+        assertOutEquals("skipped sum is 45\ncounted sum is 45\n");
     }
 
     @Test
